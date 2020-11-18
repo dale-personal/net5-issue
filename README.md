@@ -4,3 +4,6 @@ Demonstrates an issue with release (optimized) builds targeting net5.0
 ```powershell
 PS> dotnet test -c release
 ```
+
+Tracking issue:
+https://github.com/dotnet/sdk/issues/14535
